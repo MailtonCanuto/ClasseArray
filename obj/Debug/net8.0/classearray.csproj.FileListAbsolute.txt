@@ -1,0 +1,5 @@
+F:\Projetos Csharp\classearray\obj\Debug\net8.0\classearray.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos Csharp\classearray\obj\Debug\net8.0\classearray.AssemblyInfoInputs.cache
+F:\Projetos Csharp\classearray\obj\Debug\net8.0\classearray.AssemblyInfo.cs
+F:\Projetos Csharp\classearray\obj\Debug\net8.0\classearray.csproj.CoreCompileInputs.cache
+F:\Projetos Csharp\classearray\obj\Debug\net8.0\classearray.sourcelink.json
