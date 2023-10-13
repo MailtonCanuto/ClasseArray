@@ -3,3 +3,13 @@ F:\Projetos Csharp\classearray\obj\Debug\net8.0\classearray.AssemblyInfoInputs.c
 F:\Projetos Csharp\classearray\obj\Debug\net8.0\classearray.AssemblyInfo.cs
 F:\Projetos Csharp\classearray\obj\Debug\net8.0\classearray.csproj.CoreCompileInputs.cache
 F:\Projetos Csharp\classearray\obj\Debug\net8.0\classearray.sourcelink.json
+F:\Projetos Csharp\classearray\bin\Debug\net8.0\classearray.exe
+F:\Projetos Csharp\classearray\bin\Debug\net8.0\classearray.deps.json
+F:\Projetos Csharp\classearray\bin\Debug\net8.0\classearray.runtimeconfig.json
+F:\Projetos Csharp\classearray\bin\Debug\net8.0\classearray.dll
+F:\Projetos Csharp\classearray\bin\Debug\net8.0\classearray.pdb
+F:\Projetos Csharp\classearray\obj\Debug\net8.0\classearray.dll
+F:\Projetos Csharp\classearray\obj\Debug\net8.0\refint\classearray.dll
+F:\Projetos Csharp\classearray\obj\Debug\net8.0\classearray.pdb
+F:\Projetos Csharp\classearray\obj\Debug\net8.0\classearray.genruntimeconfig.cache
+F:\Projetos Csharp\classearray\obj\Debug\net8.0\ref\classearray.dll
